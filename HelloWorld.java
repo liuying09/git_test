@@ -8,8 +8,7 @@ public class HelloWorld {
 		System.out.println("測試用");
 		
 
-		private int pk;
-		private int fk;
+		private String test = "測試衝突";
 
 		
 		for( int i = 0 ; i < 3 ; i++){
