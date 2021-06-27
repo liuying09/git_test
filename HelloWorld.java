@@ -7,7 +7,10 @@ public class HelloWorld {
 		int[][] x = new int[3][3];
 		System.out.println("測試用");
 		
-		private int all;
+
+		private int pk;
+		private int fk;
+
 		
 		for( int i = 0 ; i < 3 ; i++){
 			for( int j = 0 ; j < 3 ; j++){
