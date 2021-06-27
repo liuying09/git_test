@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("測試用");
 		
 		private int pk;
+		private int fk;
 		
 		for( int i = 0 ; i < 3 ; i++){
 			for( int j = 0 ; j < 3 ; j++){
